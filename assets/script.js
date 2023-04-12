@@ -17,7 +17,7 @@ $("#search-button").click(function (event) {
     var cityText = cityInput.val();
 
     //Putting the api url into a named variable
-    var cityfinderUrl = "https://api.openweathermap.org/geo/1.0/direct?q=" + cityText + "&appid=5e7e2647fcca19999e4ac3f12792e3be";
+    var cityfinderUrl = "http://api.openweathermap.org/geo/1.0/direct?q=" + cityText + "&appid=5e7e2647fcca19999e4ac3f12792e3be";
 
     //Fetching that api
     fetch(cityfinderUrl)

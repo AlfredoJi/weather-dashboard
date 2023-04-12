@@ -8,7 +8,8 @@ The purpose of this website is to allow the user to look up any cities current a
 ## Installation
 
 No steps needed to install. Just follow this URL to get to website.
-URL: 
+URL: https://alfredoji.github.io/weather-dashboard/
+
 
 ## Usage
 
