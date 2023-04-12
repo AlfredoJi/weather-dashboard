@@ -1,0 +1,109 @@
+h1 {
+    text-align: center;
+    padding: 30px;
+    background-color: blue;
+    color: white;
+}
+
+h3 {
+    display: block;
+    margin-top: 10px;
+    margin-left: 500px;
+    padding-bottom: 10px;
+}
+
+div {
+    font-size: 22px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.search-header {
+    display: inline;
+    float: left;
+    margin: 10px;
+}
+
+form {
+    float: left;
+    margin-top: 50px;
+    margin-left: -155px;
+    width: 20%;
+}
+
+#past-city {
+    color: black;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: -390px;
+    width: 303px;
+    border: none;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.container {
+    display: inline;
+    float: right;
+    padding-bottom: 20px;
+    border: 3px solid;
+    margin-right: 100px;
+}
+
+.city-title {
+    font-size: 20px;
+}
+
+img {
+    width: 60px;
+}
+
+.first-container {
+    display: block;
+    color: white;
+    width: 12%;
+    background-color: blue;
+    margin-top: 10px;
+    margin-left: 500px;
+    padding-left: 20px;
+}
+
+.second-container {
+    display: block;
+    color: white;
+    width: 12%;
+    background-color: blue;
+    margin-top: -359px;
+    margin-left: 750px;
+    padding-left: 20px;
+}
+
+.third-container {
+    display: block;
+    color: white;
+    width: 12%;
+    background-color: blue;
+    margin-top: -359px;
+    margin-left: 1000px;
+    padding-left: 20px;
+}
+
+.fourth-container {
+    display: block;
+    color: white;
+    width: 12%;
+    background-color: blue;
+    margin-top: -359px;
+    margin-left: 1250px;
+    padding-left: 20px;
+}
+
+.fifth-container {
+    display: block;
+    color: white;
+    width: 12%;
+    background-color: blue;
+    margin-top: -359px;
+    margin-left: 1500px;
+    padding-left: 20px;
+}
